@@ -1,6 +1,6 @@
 faffwafwa
 gaigwiaiga
-GITHUBY_KEY:"my-super-secret-key-123"
+GITHUBY_KEY: process.env.GITHUB_KEY
 
 fwafffwaestw
 fawfawfgwaga
